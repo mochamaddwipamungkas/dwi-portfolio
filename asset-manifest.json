@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dwi-portfolio/static/css/main.0d6aef4f.css",
+    "main.js": "/dwi-portfolio/static/js/main.e2687c0b.js",
+    "static/js/787.5d27950a.chunk.js": "/dwi-portfolio/static/js/787.5d27950a.chunk.js",
+    "static/media/profil.jpg": "/dwi-portfolio/static/media/profil.73ca34e7c6df9baf68c4.jpg",
+    "static/media/1. Beranda.JPG": "/dwi-portfolio/static/media/1. Beranda.0fb82c3e9212418e136a.JPG",
+    "static/media/beranda.jpg": "/dwi-portfolio/static/media/beranda.0fb82c3e9212418e136a.jpg",
+    "static/media/5. Keranjang.JPG": "/dwi-portfolio/static/media/5. Keranjang.9989e0ecf6a57b5694ae.JPG",
+    "static/media/8. Invoice.JPG": "/dwi-portfolio/static/media/8. Invoice.65796dda19cc0ead2e91.JPG",
+    "static/media/7. Confirm.JPG": "/dwi-portfolio/static/media/7. Confirm.e0e797e78efae07552d8.JPG",
+    "static/media/6. Checkout.JPG": "/dwi-portfolio/static/media/6. Checkout.3b634951fee0d68faa5e.JPG",
+    "static/media/3. Registrasi.JPG": "/dwi-portfolio/static/media/3. Registrasi.9896d0812f71481270d2.JPG",
+    "static/media/9. Account Profil.JPG": "/dwi-portfolio/static/media/9. Account Profil.7a75f068dcda64323f64.JPG",
+    "static/media/4. Login.JPG": "/dwi-portfolio/static/media/4. Login.d2edc86c0a81aefdd9a1.JPG",
+    "static/media/2. Navbar.JPG": "/dwi-portfolio/static/media/2. Navbar.c69b48440ddec2dfe01f.JPG",
+    "index.html": "/dwi-portfolio/index.html",
+    "main.0d6aef4f.css.map": "/dwi-portfolio/static/css/main.0d6aef4f.css.map",
+    "main.e2687c0b.js.map": "/dwi-portfolio/static/js/main.e2687c0b.js.map",
+    "787.5d27950a.chunk.js.map": "/dwi-portfolio/static/js/787.5d27950a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6aef4f.css",
+    "static/js/main.e2687c0b.js"
+  ]
+}
