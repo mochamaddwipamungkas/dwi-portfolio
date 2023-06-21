@@ -20,7 +20,7 @@ const Projects = () => {
                                 <div class="mt-5">
                                     <a href="https://github.com/mochamaddwipamungkas/dwi-project-frontend" class="btn btn-primary ms-auto me-2" target="blank">Github</a>
                                     <a href="https://dwi-frontend-tugas.herokuapp.com/" class="btn btn-primary ms-2 me-2" target="blank" >Live Demo</a>
-                                    <a href="dwi-portfolio/detailproject" class="btn btn-primary ms-2 me-auto" >Detail</a>
+                                    <a href="detailproject" class="btn btn-primary ms-2 me-auto" >Detail</a>
                                 </div>
 
                             </div>
