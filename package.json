@@ -1,8 +1,8 @@
 {
   "name": "dwi-portfolio",
   "version": "0.1.0",
-  "homepage": "http://mochamaddwipamungkas.github.io/dwi-portfolio",
   "private": true,
+  "homepage": "https://mochamaddwipamungkas.github.io/dwi-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
