@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/dwi-portfolio" element={<Components />} />
-        <Route path="/detailproject" element={<DetailProject />} />
+        <Route path="/dwi-portfolio/detailproject" element={<DetailProject />} />
       </Routes>
     </BrowserRouter>
   )
