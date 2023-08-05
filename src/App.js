@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Routes, Route, HashRouter } from "react-router-dom";
+import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Components from './components/components';
 import DetailProject from './components/detailproject';
 
@@ -8,12 +8,14 @@ import DetailProject from './components/detailproject';
 
 function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <Routes>
-        <Route path="/dwi-portfolio" element={<Components />} />
+        <Route path="/" element={<Components />} />
         <Route path="/detailproject" element={<DetailProject />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
+
+
 
   )
 }
