@@ -10,7 +10,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/dwi-portfolio" element={<Components />} />
+        <Route exact path="/dwi-portfolio" element={<Components />} />
         <Route path="/detailproject" element={<DetailProject />} />
       </Routes>
     </BrowserRouter>
