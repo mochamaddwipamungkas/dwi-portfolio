@@ -5,30 +5,21 @@ const Contact = () => {
     return (
 
         <section>
-            <div class="container">
-                <di id="contact" class="row text-center">
-                    <h2 class="display-6">Contact Me</h2>
-                </di>
-                <div class="row mt-5 justify-content-center">
-                    <div class="col-md-5">
-                        <form>
-                            <div class="mb-3">
-                                <label for="nama" class="nama">Nama Lengkap</label>
-                                <input type="text" class="form-control" id="nama" aria-describedby="nama" />
-                            </div>
-                            <div class="mb-3">
-                                <label for="email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="email" aria-describedby="email" />
-                            </div>
-                            <div class="mb-3">
-                                <label for="Pesan" class="form-label">Pesan </label>
-                                <textarea class="form-control" id="pesan" rows="3"></textarea>
-                            </div>
-                            <button type="submit" class="btn btn-primary">Kirim</button>
-                        </form>
+
+            <div id="contact" className="contact pt-5">
+                <div class="container ">
+                    <div className='text-center '>
+                        <h2 className="display-6">Contact Me</h2>
+                    </div>
+                    <div className='col-md mt-5 align-items-center' >
+                        <p ><i class="ms-5 me-2 bi bi-whatsapp"> </i> 0838049795544</p>
+                        <p ><i class="ms-5 me-2 bi bi-envelope"> </i> mdpamungkas@gmail.com</p>
+                        <p ><i class="ms-5 me-2 bi bi-linkedin" > </i>linkedin.com/in/mochamaddwipamungkas</p>
                     </div>
                 </div>
+
             </div>
+
         </section>
 
     );

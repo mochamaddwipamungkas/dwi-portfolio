@@ -5,6 +5,7 @@ import Footer from './footer';
 import Navbar from './navbar';
 import Profil from './profil';
 import Projects from './projects';
+import Skills from './skills';
 
 const Components = () => {
     return (
@@ -12,6 +13,7 @@ const Components = () => {
             <Navbar />
             <Profil />
             <About />
+            <Skills />
             <Projects />
             <Contact />
             <Footer />
