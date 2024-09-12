@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dwi-portfolio/static/css/main.9272f2e4.css",
-    "main.js": "/dwi-portfolio/static/js/main.119c500b.js",
+    "main.js": "/dwi-portfolio/static/js/main.cdc69326.js",
     "static/js/787.5d27950a.chunk.js": "/dwi-portfolio/static/js/787.5d27950a.chunk.js",
     "static/media/profil.jpg": "/dwi-portfolio/static/media/profil.73ca34e7c6df9baf68c4.jpg",
     "static/media/10. Beranda.JPG": "/dwi-portfolio/static/media/10. Beranda.51afc2c896bf6ea0dde0.JPG",
@@ -19,11 +19,11 @@
     "static/media/15. Telegram Clone.JPG": "/dwi-portfolio/static/media/15. Telegram Clone.6fb6cf84de2c54dae4f6.JPG",
     "index.html": "/dwi-portfolio/index.html",
     "main.9272f2e4.css.map": "/dwi-portfolio/static/css/main.9272f2e4.css.map",
-    "main.119c500b.js.map": "/dwi-portfolio/static/js/main.119c500b.js.map",
+    "main.cdc69326.js.map": "/dwi-portfolio/static/js/main.cdc69326.js.map",
     "787.5d27950a.chunk.js.map": "/dwi-portfolio/static/js/787.5d27950a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9272f2e4.css",
-    "static/js/main.119c500b.js"
+    "static/js/main.cdc69326.js"
   ]
 }
